@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 -->
 <div>
 <h1>My Skills:</h1>
-<img>https://github.com/leotachini/leotachini/assets/96491016/2218a2b3-7104-4b3e-a112-cbacef556296</img>
+<img src="https://github.com/leotachini/leotachini/assets/96491016/2218a2b3-7104-4b3e-a112-cbacef556296"></img>
 
 </div>
