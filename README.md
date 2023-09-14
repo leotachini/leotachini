@@ -19,5 +19,4 @@ Here are some ideas to get you started:
 -->
 
 <h1>My Skills:</h1>
-<img src="[![image](https://github.com/leotachini/leotachini/assets/96491016/268d8a43-da99-4fa1-9a25-d6024650c1ad)](https://icons8.com.br/icon/v8RpPQUwv0N8/html-5)https://icons8.com.br/icon/v8RpPQUwv0N8/html-5
-">
+<img src="https://icons8.com.br/icon/v8RpPQUwv0N8/html-5)https://icons8.com.br/icon/v8RpPQUwv0N8/html-5">
