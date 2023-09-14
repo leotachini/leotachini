@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Leonardo, aka LeoTachini I'm here to put
+My name is Leonardo, aka LeoTachini.
 
 - 🔭 I’m currently working on BrBit Sistemas
 - 🌱 I’m currently learning React
@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1>My Skills:</h1>
+<img src="">
