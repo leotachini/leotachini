@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <div>
 <h1>My Skills:</h1>
 <img style="width:80px;height:80px;" src="https://github.com/leotachini/leotachini/assets/96491016/a433946e-53b2-4a56-be47-3d4b7088315f"></img>
-<img src="https://github.com/leotachini/leotachini/assets/96491016/cf5a50a2-dd0b-4eb9-acfb-c5b296044162"
+<img style="width:80px;height:80px;" src="https://github.com/leotachini/leotachini/assets/96491016/cf5a50a2-dd0b-4eb9-acfb-c5b296044162"
 ></img>
 
 </div>
