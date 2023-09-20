@@ -21,6 +21,9 @@ Here are some ideas to get you started:
 <h1>My Skills:</h1>
 <img style="width:80px;height:80px;padding-left:10px" src="https://github.com/leotachini/leotachini/assets/96491016/539c3292-0287-4d4a-83e6-9bda48942ca3"></img>
 <img style="width:80px;height:80px;" src="https://github.com/leotachini/leotachini/assets/96491016/cf5a50a2-dd0b-4eb9-acfb-c5b296044162"></img>
+<img style="width:80px;height:80px;" src="https://github.com/leotachini/leotachini/assets/96491016/2d7929f4-ab70-4dae-8502-8c590fe97327"></img>
+
+
 
 </div>
 <!--colocar api pokemon aleatorio-->
