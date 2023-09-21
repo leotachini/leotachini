@@ -19,8 +19,9 @@ Here are some ideas to get you started:
 -->
 <div>
 <h1>My Skills:</h1>
-<img style="width:80px;height:80px;padding-left:10px" src="https://github.com/leotachini/leotachini/assets/96491016/539c3292-0287-4d4a-83e6-9bda48942ca3"></img>
-<img style="width:80px;height:80px;" src="https://github.com/leotachini/leotachini/assets/96491016/cf5a50a2-dd0b-4eb9-acfb-c5b296044162"></img>
+<img style="width:80px;height:80px;" src="https://github.com/leotachini/leotachini/assets/96491016/2218a2b3-7104-4b3e-a112-cbacef556296"></img>
+<img style="width:80px;height:80px;" src="https://github.com/leotachini/leotachini/assets/96491016/a433946e-53b2-4a56-be47-3d4b7088315f
+"></img>
 <img style="width:80px;height:80px;" src="https://github.com/leotachini/leotachini/assets/96491016/2d7929f4-ab70-4dae-8502-8c590fe97327"></img>
 
 
