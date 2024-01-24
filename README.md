@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 <h1>My Skills:</h1>
 <img style="width:80px;height:80px;" src="https://github.com/leotachini/leotachini/assets/96491016/2218a2b3-7104-4b3e-a112-cbacef556296"></img>
 <img style="width:80px;height:80px;" src="https://github.com/leotachini/leotachini/assets/96491016/2d7929f4-ab70-4dae-8502-8c590fe97327"></img>
+<img src="https://github.com/leotachini/leotachini/assets/96491016/abf88ff8-a7e7-4526-b67b-68da1b1e5e7e"></img>
 
 
 
