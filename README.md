@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 -->
 <div>
     <details>
+        <summary>My Skills:</summary>
         <div>
-<summary>My Skills:</summary>
     <img align="center" alt="Typescript" height="40" width="40" src="https://skillicons.dev/icons?i=html"/>  
     <img align="center" alt="Typescript" height="40" width="40" src="https://skillicons.dev/icons?i=css"/>
     <img align="center" alt="Js" height="40" width="40" src="https://skillicons.dev/icons?i=javascript">
