@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
    <details>
     <summary>My Skills:</summary>
+      <br><br>
     <div>
         <img align="center" alt="HTML" height="40" width="40" src="https://skillicons.dev/icons?i=html"/>  
         <img align="center" alt="CSS" height="40" width="40" src="https://skillicons.dev/icons?i=css"/>
