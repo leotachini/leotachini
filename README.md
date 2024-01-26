@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div>
+
     <details>
         <summary>My Skills:</summary>
         <div>
@@ -30,5 +30,5 @@ Here are some ideas to get you started:
     <img align="center" alt="Github" height="40" width="40" src="https://skillicons.dev/icons?i=github">
         </div>   
     </details>
-</div>
+    
 <!--colocar api pokemon aleatorio-->
