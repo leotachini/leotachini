@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 -->
 <div>
     <details>
+        <div>
 <summary>My Skills:</summary>
     <img align="center" alt="Typescript" height="40" width="40" src="https://skillicons.dev/icons?i=html"/>  
     <img align="center" alt="Typescript" height="40" width="40" src="https://skillicons.dev/icons?i=css"/>
@@ -27,6 +28,7 @@ Here are some ideas to get you started:
     <img align="center" alt="ReactJs" height="40" width="40" src="https://skillicons.dev/icons?i=react"/>
     <img align="center" alt="Git" height="40" width="40" src="https://skillicons.dev/icons?i=git">
     <img align="center" alt="Github" height="40" width="40" src="https://skillicons.dev/icons?i=github">
+        </div>   
     </details>
 </div>
 <!--colocar api pokemon aleatorio-->
