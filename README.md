@@ -32,6 +32,6 @@ Here are some ideas to get you started:
     </div>   
 </details>
 
-<iframe title="deezer-widget" src="https://widget.deezer.com/widget/dark/track/10287066" width="350" height="350" frameborder="0" allowtransparency="true" allow="encrypted-media; clipboard-write"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0GFXbdgwVYO8Dw6BG8MLfL?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
     
 <!--colocar api pokemon aleatorio-->
