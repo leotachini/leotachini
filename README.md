@@ -31,5 +31,7 @@ Here are some ideas to get you started:
         <img align="center" alt="GitHub" height="40" width="40" src="https://skillicons.dev/icons?i=github"/>
     </div>   
 </details>
+
+<iframe title="deezer-widget" src="https://widget.deezer.com/widget/dark/track/10287066" width="350" height="350" frameborder="0" allowtransparency="true" allow="encrypted-media; clipboard-write"></iframe>
     
 <!--colocar api pokemon aleatorio-->
