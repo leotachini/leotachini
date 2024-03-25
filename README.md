@@ -31,5 +31,7 @@ Here are some ideas to get you started:
         <img align="center" alt="GitHub" height="40" width="40" src="https://skillicons.dev/icons?i=github"/>
     </div>   
 </details>
-    
+    <div>
+       <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0GFXbdgwVYO8Dw6BG8MLfL?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+    </div>
 <!--colocar api pokemon aleatorio-->
