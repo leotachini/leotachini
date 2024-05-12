@@ -1,23 +1,10 @@
 ### Hi there 👋
 My name is Leonardo, aka LeoTachini.
 
-- 🔭 I’m currently working on BrBit Sistemas
-- 🌱 I’m currently learning React and C#
-<!--
-**leotachini/leotachini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on HavanLabs
+- 🌱 I’m currently learning React
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on BrBit Sistemas
-- 🌱 I’m currently learning React and C#
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leotachini)](https://github.com/leotachini/github-readme-stats)
    <details>
     <summary>My Skills:</summary>
       <br><br>
