@@ -5,17 +5,14 @@ My name is Leonardo, aka LeoTachini.
 - 🌱 I’m currently learning React
 
 <div style="display: flex;">
-    <div style="flex: 1; margin-right: 10px;">
-        <a href="https://github.com/leotachini/github-readme-stats">
+        <a href="https://github.com/leotachini">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leotachini" alt="Top Langs" />
         </a>
-    </div>
-    <div style="flex: 1;">
         <a href="https://github.com/leotachini">
             <img src="https://github-readme-stats.vercel.app/api?username=leotachini&show_icons=true&theme=transparent" alt="leotachini GitHub stats" />
         </a>
     </div>
-</div> 
+
 
    <details>
     <summary>My Skills:</summary>
@@ -29,7 +26,5 @@ My name is Leonardo, aka LeoTachini.
         <img align="center" alt="Git" height="40" width="40" src="https://skillicons.dev/icons?i=git"/>
         <img align="center" alt="GitHub" height="40" width="40" src="https://skillicons.dev/icons?i=github"/>
     </div>
-   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leotachini)](https://github.com/leotachini/github-readme-stats)
 </details>
 <!--colocar api pokemon aleatorio-->
