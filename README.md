@@ -2,7 +2,7 @@
 My name is Leonardo, aka LeoTachini.
 
 - 🔭 I’m currently working on HavanLabs
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React and C#
 
 ## 🟦 My Skills
   [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,git,github,vscode)](https://skillicons.dev)<br>
