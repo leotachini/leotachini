@@ -9,7 +9,7 @@ My name is Leonardo, aka LeoTachini.
 ## 🟪 Currently Studying
   [![My Skills](https://skillicons.dev/icons?i=react,next,cs)](https://skillicons.dev)<br>    
         <a href="https://github.com/leotachini">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leotachini" alt="Top Langs" />
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leotachini&theme=dark&bg_color=0D1117&text_color=FFFFFF&title_color=FFFFFF&langs_count=8" alt="Top Langs" />
         </a>
         <br>
         <a href="https://github.com/leotachini">
