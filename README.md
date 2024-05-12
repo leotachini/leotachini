@@ -31,5 +31,5 @@ Here are some ideas to get you started:
         <img align="center" alt="GitHub" height="40" width="40" src="https://skillicons.dev/icons?i=github"/>
     </div>   
 </details>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leotachini)](https://github.com/leotachini/github-readme-stats)
+https://github-readme-stats.vercel.app/api/top-langs/?username=leotachini)](https://github.com/leotachini/github-readme-stats
 <!--colocar api pokemon aleatorio-->
