@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Leonardo, aka LeoTachini.
+My name is Leonardo, aka LeoTachini, I am 19 years old, and I love to watch movies and TV shows.
 
 - 🔭 I’m currently working on HavanLabs
 - 🌱 I’m currently learning React and C#
