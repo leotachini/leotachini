@@ -4,7 +4,19 @@ My name is Leonardo, aka LeoTachini.
 - 🔭 I’m currently working on HavanLabs
 - 🌱 I’m currently learning React
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leotachini)](https://github.com/leotachini/github-readme-stats)
+<div style="display: flex;">
+    <div style="flex: 1; margin-right: 10px;">
+        <a href="https://github.com/leotachini/github-readme-stats">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leotachini" alt="Top Langs" />
+        </a>
+    </div>
+    <div style="flex: 1;">
+        <a href="https://github.com/leotachini">
+            <img src="https://github-readme-stats.vercel.app/api?username=leotachini&show_icons=true&theme=transparent" alt="leotachini GitHub stats" />
+        </a>
+    </div>
+</div> 
+
    <details>
     <summary>My Skills:</summary>
       <br><br>
