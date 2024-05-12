@@ -4,18 +4,7 @@ My name is Leonardo, aka LeoTachini.
 - 🔭 I’m currently working on HavanLabs
 - 🌱 I’m currently learning React
 
-<div style="display: flex;">
-        <a href="https://github.com/leotachini">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leotachini" alt="Top Langs" />
-        </a>
-        <a href="https://github.com/leotachini">
-            <img src="https://github-readme-stats.vercel.app/api?username=leotachini&show_icons=true&theme=transparent" alt="leotachini GitHub stats" />
-        </a>
-    </div>
-
-
-   <details>
-    <summary>My Skills:</summary>
+  <summary>My Skills:</summary>
       <br><br>
     <div>
         <img align="center" alt="HTML" height="40" width="40" src="https://skillicons.dev/icons?i=html"/>  
@@ -26,5 +15,14 @@ My name is Leonardo, aka LeoTachini.
         <img align="center" alt="Git" height="40" width="40" src="https://skillicons.dev/icons?i=git"/>
         <img align="center" alt="GitHub" height="40" width="40" src="https://skillicons.dev/icons?i=github"/>
     </div>
-</details>
+
+<div style="display: flex;">
+        <a href="https://github.com/leotachini">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leotachini" alt="Top Langs" />
+        </a>
+        <a href="https://github.com/leotachini">
+            <img src="https://github-readme-stats.vercel.app/api?username=leotachini&show_icons=true&theme=transparent" alt="leotachini GitHub stats" />
+        </a>
+    </div>
+  
 <!--colocar api pokemon aleatorio-->
