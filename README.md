@@ -2,7 +2,7 @@
 My name is Leonardo, aka LeoTachini, I am 19 years old, and I love to watch movies and TV shows.
 
 - 🔭 I’m currently working on HavanLabs
-- 🌱 I’m currently learning C# and more about React.
+- 🌱 I’m currently learning C# and more about React and Next.
 
 ## 🟦 My Skills
   [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,mysql,git,github,vscode)](https://skillicons.dev)<br>
